@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="PH32140_AssignmentFinal:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>PH32140_AssignmentFinal</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="PH32140_AssignmentFinal-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="PH32140_AssignmentFinal:war exploded" />
+    </root>
+  </artifact>
+</component>
